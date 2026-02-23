@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-ink text-amber-100 min-h-screen;
+  font-family: "Noto Serif TC", "PingFang TC", "Microsoft JhengHei", serif;
+  background-image: radial-gradient(circle at top, rgba(212, 175, 55, 0.12), transparent 45%),
+    linear-gradient(180deg, #0f0f0f 0%, #080808 100%);
+}
+
+.panel {
+  @apply rounded-2xl border border-amber-300/25 bg-zen/80 backdrop-blur-md;
+}
