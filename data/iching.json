@@ -1,0 +1,3074 @@
+[
+  {
+    "hexagramNumber": 1,
+    "hexagramName": "乾",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第1卦「乾」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/01.gif"
+  },
+  {
+    "hexagramNumber": 1,
+    "hexagramName": "乾",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第1卦「乾」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/01.gif"
+  },
+  {
+    "hexagramNumber": 1,
+    "hexagramName": "乾",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第1卦「乾」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/01.gif"
+  },
+  {
+    "hexagramNumber": 1,
+    "hexagramName": "乾",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第1卦「乾」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/01.gif"
+  },
+  {
+    "hexagramNumber": 1,
+    "hexagramName": "乾",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第1卦「乾」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/01.gif"
+  },
+  {
+    "hexagramNumber": 1,
+    "hexagramName": "乾",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第1卦「乾」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/01.gif"
+  },
+  {
+    "hexagramNumber": 2,
+    "hexagramName": "坤",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第2卦「坤」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/02.gif"
+  },
+  {
+    "hexagramNumber": 2,
+    "hexagramName": "坤",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第2卦「坤」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/02.gif"
+  },
+  {
+    "hexagramNumber": 2,
+    "hexagramName": "坤",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第2卦「坤」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/02.gif"
+  },
+  {
+    "hexagramNumber": 2,
+    "hexagramName": "坤",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第2卦「坤」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/02.gif"
+  },
+  {
+    "hexagramNumber": 2,
+    "hexagramName": "坤",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第2卦「坤」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/02.gif"
+  },
+  {
+    "hexagramNumber": 2,
+    "hexagramName": "坤",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第2卦「坤」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/02.gif"
+  },
+  {
+    "hexagramNumber": 3,
+    "hexagramName": "屯",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第3卦「屯」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/03.gif"
+  },
+  {
+    "hexagramNumber": 3,
+    "hexagramName": "屯",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第3卦「屯」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/03.gif"
+  },
+  {
+    "hexagramNumber": 3,
+    "hexagramName": "屯",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第3卦「屯」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/03.gif"
+  },
+  {
+    "hexagramNumber": 3,
+    "hexagramName": "屯",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第3卦「屯」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/03.gif"
+  },
+  {
+    "hexagramNumber": 3,
+    "hexagramName": "屯",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第3卦「屯」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/03.gif"
+  },
+  {
+    "hexagramNumber": 3,
+    "hexagramName": "屯",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第3卦「屯」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/03.gif"
+  },
+  {
+    "hexagramNumber": 4,
+    "hexagramName": "蒙",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第4卦「蒙」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/04.gif"
+  },
+  {
+    "hexagramNumber": 4,
+    "hexagramName": "蒙",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第4卦「蒙」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/04.gif"
+  },
+  {
+    "hexagramNumber": 4,
+    "hexagramName": "蒙",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第4卦「蒙」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/04.gif"
+  },
+  {
+    "hexagramNumber": 4,
+    "hexagramName": "蒙",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第4卦「蒙」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/04.gif"
+  },
+  {
+    "hexagramNumber": 4,
+    "hexagramName": "蒙",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第4卦「蒙」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/04.gif"
+  },
+  {
+    "hexagramNumber": 4,
+    "hexagramName": "蒙",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第4卦「蒙」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/04.gif"
+  },
+  {
+    "hexagramNumber": 5,
+    "hexagramName": "需",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第5卦「需」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/05.gif"
+  },
+  {
+    "hexagramNumber": 5,
+    "hexagramName": "需",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第5卦「需」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/05.gif"
+  },
+  {
+    "hexagramNumber": 5,
+    "hexagramName": "需",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第5卦「需」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/05.gif"
+  },
+  {
+    "hexagramNumber": 5,
+    "hexagramName": "需",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第5卦「需」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/05.gif"
+  },
+  {
+    "hexagramNumber": 5,
+    "hexagramName": "需",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第5卦「需」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/05.gif"
+  },
+  {
+    "hexagramNumber": 5,
+    "hexagramName": "需",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第5卦「需」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/05.gif"
+  },
+  {
+    "hexagramNumber": 6,
+    "hexagramName": "訟",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第6卦「訟」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/06.gif"
+  },
+  {
+    "hexagramNumber": 6,
+    "hexagramName": "訟",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第6卦「訟」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/06.gif"
+  },
+  {
+    "hexagramNumber": 6,
+    "hexagramName": "訟",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第6卦「訟」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/06.gif"
+  },
+  {
+    "hexagramNumber": 6,
+    "hexagramName": "訟",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第6卦「訟」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/06.gif"
+  },
+  {
+    "hexagramNumber": 6,
+    "hexagramName": "訟",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第6卦「訟」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/06.gif"
+  },
+  {
+    "hexagramNumber": 6,
+    "hexagramName": "訟",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第6卦「訟」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/06.gif"
+  },
+  {
+    "hexagramNumber": 7,
+    "hexagramName": "師",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第7卦「師」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/07.gif"
+  },
+  {
+    "hexagramNumber": 7,
+    "hexagramName": "師",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第7卦「師」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/07.gif"
+  },
+  {
+    "hexagramNumber": 7,
+    "hexagramName": "師",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第7卦「師」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/07.gif"
+  },
+  {
+    "hexagramNumber": 7,
+    "hexagramName": "師",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第7卦「師」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/07.gif"
+  },
+  {
+    "hexagramNumber": 7,
+    "hexagramName": "師",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第7卦「師」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/07.gif"
+  },
+  {
+    "hexagramNumber": 7,
+    "hexagramName": "師",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第7卦「師」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/07.gif"
+  },
+  {
+    "hexagramNumber": 8,
+    "hexagramName": "比",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第8卦「比」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/08.gif"
+  },
+  {
+    "hexagramNumber": 8,
+    "hexagramName": "比",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第8卦「比」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/08.gif"
+  },
+  {
+    "hexagramNumber": 8,
+    "hexagramName": "比",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第8卦「比」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/08.gif"
+  },
+  {
+    "hexagramNumber": 8,
+    "hexagramName": "比",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第8卦「比」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/08.gif"
+  },
+  {
+    "hexagramNumber": 8,
+    "hexagramName": "比",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第8卦「比」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/08.gif"
+  },
+  {
+    "hexagramNumber": 8,
+    "hexagramName": "比",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第8卦「比」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/08.gif"
+  },
+  {
+    "hexagramNumber": 9,
+    "hexagramName": "小畜",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第9卦「小畜」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/09.gif"
+  },
+  {
+    "hexagramNumber": 9,
+    "hexagramName": "小畜",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第9卦「小畜」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/09.gif"
+  },
+  {
+    "hexagramNumber": 9,
+    "hexagramName": "小畜",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第9卦「小畜」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/09.gif"
+  },
+  {
+    "hexagramNumber": 9,
+    "hexagramName": "小畜",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第9卦「小畜」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/09.gif"
+  },
+  {
+    "hexagramNumber": 9,
+    "hexagramName": "小畜",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第9卦「小畜」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/09.gif"
+  },
+  {
+    "hexagramNumber": 9,
+    "hexagramName": "小畜",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第9卦「小畜」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/09.gif"
+  },
+  {
+    "hexagramNumber": 10,
+    "hexagramName": "履",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第10卦「履」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/10.gif"
+  },
+  {
+    "hexagramNumber": 10,
+    "hexagramName": "履",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第10卦「履」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/10.gif"
+  },
+  {
+    "hexagramNumber": 10,
+    "hexagramName": "履",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第10卦「履」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/10.gif"
+  },
+  {
+    "hexagramNumber": 10,
+    "hexagramName": "履",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第10卦「履」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/10.gif"
+  },
+  {
+    "hexagramNumber": 10,
+    "hexagramName": "履",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第10卦「履」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/10.gif"
+  },
+  {
+    "hexagramNumber": 10,
+    "hexagramName": "履",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第10卦「履」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/10.gif"
+  },
+  {
+    "hexagramNumber": 11,
+    "hexagramName": "泰",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第11卦「泰」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/11.gif"
+  },
+  {
+    "hexagramNumber": 11,
+    "hexagramName": "泰",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第11卦「泰」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/11.gif"
+  },
+  {
+    "hexagramNumber": 11,
+    "hexagramName": "泰",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第11卦「泰」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/11.gif"
+  },
+  {
+    "hexagramNumber": 11,
+    "hexagramName": "泰",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第11卦「泰」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/11.gif"
+  },
+  {
+    "hexagramNumber": 11,
+    "hexagramName": "泰",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第11卦「泰」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/11.gif"
+  },
+  {
+    "hexagramNumber": 11,
+    "hexagramName": "泰",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第11卦「泰」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/11.gif"
+  },
+  {
+    "hexagramNumber": 12,
+    "hexagramName": "否",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第12卦「否」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/12.gif"
+  },
+  {
+    "hexagramNumber": 12,
+    "hexagramName": "否",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第12卦「否」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/12.gif"
+  },
+  {
+    "hexagramNumber": 12,
+    "hexagramName": "否",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第12卦「否」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/12.gif"
+  },
+  {
+    "hexagramNumber": 12,
+    "hexagramName": "否",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第12卦「否」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/12.gif"
+  },
+  {
+    "hexagramNumber": 12,
+    "hexagramName": "否",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第12卦「否」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/12.gif"
+  },
+  {
+    "hexagramNumber": 12,
+    "hexagramName": "否",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第12卦「否」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/12.gif"
+  },
+  {
+    "hexagramNumber": 13,
+    "hexagramName": "同人",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第13卦「同人」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/13.gif"
+  },
+  {
+    "hexagramNumber": 13,
+    "hexagramName": "同人",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第13卦「同人」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/13.gif"
+  },
+  {
+    "hexagramNumber": 13,
+    "hexagramName": "同人",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第13卦「同人」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/13.gif"
+  },
+  {
+    "hexagramNumber": 13,
+    "hexagramName": "同人",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第13卦「同人」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/13.gif"
+  },
+  {
+    "hexagramNumber": 13,
+    "hexagramName": "同人",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第13卦「同人」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/13.gif"
+  },
+  {
+    "hexagramNumber": 13,
+    "hexagramName": "同人",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第13卦「同人」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/13.gif"
+  },
+  {
+    "hexagramNumber": 14,
+    "hexagramName": "大有",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第14卦「大有」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/14.gif"
+  },
+  {
+    "hexagramNumber": 14,
+    "hexagramName": "大有",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第14卦「大有」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/14.gif"
+  },
+  {
+    "hexagramNumber": 14,
+    "hexagramName": "大有",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第14卦「大有」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/14.gif"
+  },
+  {
+    "hexagramNumber": 14,
+    "hexagramName": "大有",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第14卦「大有」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/14.gif"
+  },
+  {
+    "hexagramNumber": 14,
+    "hexagramName": "大有",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第14卦「大有」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/14.gif"
+  },
+  {
+    "hexagramNumber": 14,
+    "hexagramName": "大有",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第14卦「大有」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/14.gif"
+  },
+  {
+    "hexagramNumber": 15,
+    "hexagramName": "謙",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第15卦「謙」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/15.gif"
+  },
+  {
+    "hexagramNumber": 15,
+    "hexagramName": "謙",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第15卦「謙」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/15.gif"
+  },
+  {
+    "hexagramNumber": 15,
+    "hexagramName": "謙",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第15卦「謙」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/15.gif"
+  },
+  {
+    "hexagramNumber": 15,
+    "hexagramName": "謙",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第15卦「謙」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/15.gif"
+  },
+  {
+    "hexagramNumber": 15,
+    "hexagramName": "謙",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第15卦「謙」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/15.gif"
+  },
+  {
+    "hexagramNumber": 15,
+    "hexagramName": "謙",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第15卦「謙」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/15.gif"
+  },
+  {
+    "hexagramNumber": 16,
+    "hexagramName": "豫",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第16卦「豫」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/16.gif"
+  },
+  {
+    "hexagramNumber": 16,
+    "hexagramName": "豫",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第16卦「豫」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/16.gif"
+  },
+  {
+    "hexagramNumber": 16,
+    "hexagramName": "豫",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第16卦「豫」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/16.gif"
+  },
+  {
+    "hexagramNumber": 16,
+    "hexagramName": "豫",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第16卦「豫」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/16.gif"
+  },
+  {
+    "hexagramNumber": 16,
+    "hexagramName": "豫",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第16卦「豫」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/16.gif"
+  },
+  {
+    "hexagramNumber": 16,
+    "hexagramName": "豫",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第16卦「豫」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/16.gif"
+  },
+  {
+    "hexagramNumber": 17,
+    "hexagramName": "隨",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第17卦「隨」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/17.gif"
+  },
+  {
+    "hexagramNumber": 17,
+    "hexagramName": "隨",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第17卦「隨」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/17.gif"
+  },
+  {
+    "hexagramNumber": 17,
+    "hexagramName": "隨",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第17卦「隨」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/17.gif"
+  },
+  {
+    "hexagramNumber": 17,
+    "hexagramName": "隨",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第17卦「隨」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/17.gif"
+  },
+  {
+    "hexagramNumber": 17,
+    "hexagramName": "隨",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第17卦「隨」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/17.gif"
+  },
+  {
+    "hexagramNumber": 17,
+    "hexagramName": "隨",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第17卦「隨」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/17.gif"
+  },
+  {
+    "hexagramNumber": 18,
+    "hexagramName": "蠱",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第18卦「蠱」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/18.gif"
+  },
+  {
+    "hexagramNumber": 18,
+    "hexagramName": "蠱",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第18卦「蠱」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/18.gif"
+  },
+  {
+    "hexagramNumber": 18,
+    "hexagramName": "蠱",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第18卦「蠱」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/18.gif"
+  },
+  {
+    "hexagramNumber": 18,
+    "hexagramName": "蠱",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第18卦「蠱」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/18.gif"
+  },
+  {
+    "hexagramNumber": 18,
+    "hexagramName": "蠱",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第18卦「蠱」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/18.gif"
+  },
+  {
+    "hexagramNumber": 18,
+    "hexagramName": "蠱",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第18卦「蠱」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/18.gif"
+  },
+  {
+    "hexagramNumber": 19,
+    "hexagramName": "臨",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第19卦「臨」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/19.gif"
+  },
+  {
+    "hexagramNumber": 19,
+    "hexagramName": "臨",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第19卦「臨」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/19.gif"
+  },
+  {
+    "hexagramNumber": 19,
+    "hexagramName": "臨",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第19卦「臨」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/19.gif"
+  },
+  {
+    "hexagramNumber": 19,
+    "hexagramName": "臨",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第19卦「臨」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/19.gif"
+  },
+  {
+    "hexagramNumber": 19,
+    "hexagramName": "臨",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第19卦「臨」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/19.gif"
+  },
+  {
+    "hexagramNumber": 19,
+    "hexagramName": "臨",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第19卦「臨」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/19.gif"
+  },
+  {
+    "hexagramNumber": 20,
+    "hexagramName": "觀",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第20卦「觀」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/20.gif"
+  },
+  {
+    "hexagramNumber": 20,
+    "hexagramName": "觀",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第20卦「觀」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/20.gif"
+  },
+  {
+    "hexagramNumber": 20,
+    "hexagramName": "觀",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第20卦「觀」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/20.gif"
+  },
+  {
+    "hexagramNumber": 20,
+    "hexagramName": "觀",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第20卦「觀」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/20.gif"
+  },
+  {
+    "hexagramNumber": 20,
+    "hexagramName": "觀",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第20卦「觀」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/20.gif"
+  },
+  {
+    "hexagramNumber": 20,
+    "hexagramName": "觀",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第20卦「觀」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/20.gif"
+  },
+  {
+    "hexagramNumber": 21,
+    "hexagramName": "噬嗑",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第21卦「噬嗑」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/21.gif"
+  },
+  {
+    "hexagramNumber": 21,
+    "hexagramName": "噬嗑",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第21卦「噬嗑」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/21.gif"
+  },
+  {
+    "hexagramNumber": 21,
+    "hexagramName": "噬嗑",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第21卦「噬嗑」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/21.gif"
+  },
+  {
+    "hexagramNumber": 21,
+    "hexagramName": "噬嗑",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第21卦「噬嗑」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/21.gif"
+  },
+  {
+    "hexagramNumber": 21,
+    "hexagramName": "噬嗑",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第21卦「噬嗑」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/21.gif"
+  },
+  {
+    "hexagramNumber": 21,
+    "hexagramName": "噬嗑",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第21卦「噬嗑」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/21.gif"
+  },
+  {
+    "hexagramNumber": 22,
+    "hexagramName": "賁",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第22卦「賁」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/22.gif"
+  },
+  {
+    "hexagramNumber": 22,
+    "hexagramName": "賁",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第22卦「賁」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/22.gif"
+  },
+  {
+    "hexagramNumber": 22,
+    "hexagramName": "賁",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第22卦「賁」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/22.gif"
+  },
+  {
+    "hexagramNumber": 22,
+    "hexagramName": "賁",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第22卦「賁」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/22.gif"
+  },
+  {
+    "hexagramNumber": 22,
+    "hexagramName": "賁",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第22卦「賁」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/22.gif"
+  },
+  {
+    "hexagramNumber": 22,
+    "hexagramName": "賁",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第22卦「賁」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/22.gif"
+  },
+  {
+    "hexagramNumber": 23,
+    "hexagramName": "剝",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第23卦「剝」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/23.gif"
+  },
+  {
+    "hexagramNumber": 23,
+    "hexagramName": "剝",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第23卦「剝」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/23.gif"
+  },
+  {
+    "hexagramNumber": 23,
+    "hexagramName": "剝",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第23卦「剝」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/23.gif"
+  },
+  {
+    "hexagramNumber": 23,
+    "hexagramName": "剝",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第23卦「剝」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/23.gif"
+  },
+  {
+    "hexagramNumber": 23,
+    "hexagramName": "剝",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第23卦「剝」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/23.gif"
+  },
+  {
+    "hexagramNumber": 23,
+    "hexagramName": "剝",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第23卦「剝」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/23.gif"
+  },
+  {
+    "hexagramNumber": 24,
+    "hexagramName": "復",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第24卦「復」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/24.gif"
+  },
+  {
+    "hexagramNumber": 24,
+    "hexagramName": "復",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第24卦「復」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/24.gif"
+  },
+  {
+    "hexagramNumber": 24,
+    "hexagramName": "復",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第24卦「復」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/24.gif"
+  },
+  {
+    "hexagramNumber": 24,
+    "hexagramName": "復",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第24卦「復」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/24.gif"
+  },
+  {
+    "hexagramNumber": 24,
+    "hexagramName": "復",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第24卦「復」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/24.gif"
+  },
+  {
+    "hexagramNumber": 24,
+    "hexagramName": "復",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第24卦「復」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/24.gif"
+  },
+  {
+    "hexagramNumber": 25,
+    "hexagramName": "無妄",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第25卦「無妄」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/25.gif"
+  },
+  {
+    "hexagramNumber": 25,
+    "hexagramName": "無妄",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第25卦「無妄」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/25.gif"
+  },
+  {
+    "hexagramNumber": 25,
+    "hexagramName": "無妄",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第25卦「無妄」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/25.gif"
+  },
+  {
+    "hexagramNumber": 25,
+    "hexagramName": "無妄",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第25卦「無妄」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/25.gif"
+  },
+  {
+    "hexagramNumber": 25,
+    "hexagramName": "無妄",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第25卦「無妄」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/25.gif"
+  },
+  {
+    "hexagramNumber": 25,
+    "hexagramName": "無妄",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第25卦「無妄」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/25.gif"
+  },
+  {
+    "hexagramNumber": 26,
+    "hexagramName": "大畜",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第26卦「大畜」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/26.gif"
+  },
+  {
+    "hexagramNumber": 26,
+    "hexagramName": "大畜",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第26卦「大畜」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/26.gif"
+  },
+  {
+    "hexagramNumber": 26,
+    "hexagramName": "大畜",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第26卦「大畜」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/26.gif"
+  },
+  {
+    "hexagramNumber": 26,
+    "hexagramName": "大畜",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第26卦「大畜」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/26.gif"
+  },
+  {
+    "hexagramNumber": 26,
+    "hexagramName": "大畜",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第26卦「大畜」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/26.gif"
+  },
+  {
+    "hexagramNumber": 26,
+    "hexagramName": "大畜",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第26卦「大畜」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/26.gif"
+  },
+  {
+    "hexagramNumber": 27,
+    "hexagramName": "頤",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第27卦「頤」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/27.gif"
+  },
+  {
+    "hexagramNumber": 27,
+    "hexagramName": "頤",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第27卦「頤」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/27.gif"
+  },
+  {
+    "hexagramNumber": 27,
+    "hexagramName": "頤",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第27卦「頤」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/27.gif"
+  },
+  {
+    "hexagramNumber": 27,
+    "hexagramName": "頤",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第27卦「頤」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/27.gif"
+  },
+  {
+    "hexagramNumber": 27,
+    "hexagramName": "頤",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第27卦「頤」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/27.gif"
+  },
+  {
+    "hexagramNumber": 27,
+    "hexagramName": "頤",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第27卦「頤」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/27.gif"
+  },
+  {
+    "hexagramNumber": 28,
+    "hexagramName": "大過",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第28卦「大過」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/28.gif"
+  },
+  {
+    "hexagramNumber": 28,
+    "hexagramName": "大過",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第28卦「大過」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/28.gif"
+  },
+  {
+    "hexagramNumber": 28,
+    "hexagramName": "大過",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第28卦「大過」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/28.gif"
+  },
+  {
+    "hexagramNumber": 28,
+    "hexagramName": "大過",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第28卦「大過」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/28.gif"
+  },
+  {
+    "hexagramNumber": 28,
+    "hexagramName": "大過",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第28卦「大過」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/28.gif"
+  },
+  {
+    "hexagramNumber": 28,
+    "hexagramName": "大過",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第28卦「大過」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/28.gif"
+  },
+  {
+    "hexagramNumber": 29,
+    "hexagramName": "坎",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第29卦「坎」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/29.gif"
+  },
+  {
+    "hexagramNumber": 29,
+    "hexagramName": "坎",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第29卦「坎」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/29.gif"
+  },
+  {
+    "hexagramNumber": 29,
+    "hexagramName": "坎",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第29卦「坎」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/29.gif"
+  },
+  {
+    "hexagramNumber": 29,
+    "hexagramName": "坎",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第29卦「坎」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/29.gif"
+  },
+  {
+    "hexagramNumber": 29,
+    "hexagramName": "坎",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第29卦「坎」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/29.gif"
+  },
+  {
+    "hexagramNumber": 29,
+    "hexagramName": "坎",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第29卦「坎」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/29.gif"
+  },
+  {
+    "hexagramNumber": 30,
+    "hexagramName": "離",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第30卦「離」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/30.gif"
+  },
+  {
+    "hexagramNumber": 30,
+    "hexagramName": "離",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第30卦「離」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/30.gif"
+  },
+  {
+    "hexagramNumber": 30,
+    "hexagramName": "離",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第30卦「離」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/30.gif"
+  },
+  {
+    "hexagramNumber": 30,
+    "hexagramName": "離",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第30卦「離」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/30.gif"
+  },
+  {
+    "hexagramNumber": 30,
+    "hexagramName": "離",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第30卦「離」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/30.gif"
+  },
+  {
+    "hexagramNumber": 30,
+    "hexagramName": "離",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第30卦「離」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/30.gif"
+  },
+  {
+    "hexagramNumber": 31,
+    "hexagramName": "咸",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第31卦「咸」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/31.gif"
+  },
+  {
+    "hexagramNumber": 31,
+    "hexagramName": "咸",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第31卦「咸」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/31.gif"
+  },
+  {
+    "hexagramNumber": 31,
+    "hexagramName": "咸",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第31卦「咸」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/31.gif"
+  },
+  {
+    "hexagramNumber": 31,
+    "hexagramName": "咸",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第31卦「咸」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/31.gif"
+  },
+  {
+    "hexagramNumber": 31,
+    "hexagramName": "咸",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第31卦「咸」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/31.gif"
+  },
+  {
+    "hexagramNumber": 31,
+    "hexagramName": "咸",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第31卦「咸」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/31.gif"
+  },
+  {
+    "hexagramNumber": 32,
+    "hexagramName": "恆",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第32卦「恆」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/32.gif"
+  },
+  {
+    "hexagramNumber": 32,
+    "hexagramName": "恆",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第32卦「恆」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/32.gif"
+  },
+  {
+    "hexagramNumber": 32,
+    "hexagramName": "恆",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第32卦「恆」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/32.gif"
+  },
+  {
+    "hexagramNumber": 32,
+    "hexagramName": "恆",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第32卦「恆」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/32.gif"
+  },
+  {
+    "hexagramNumber": 32,
+    "hexagramName": "恆",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第32卦「恆」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/32.gif"
+  },
+  {
+    "hexagramNumber": 32,
+    "hexagramName": "恆",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第32卦「恆」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/32.gif"
+  },
+  {
+    "hexagramNumber": 33,
+    "hexagramName": "遯",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第33卦「遯」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/33.gif"
+  },
+  {
+    "hexagramNumber": 33,
+    "hexagramName": "遯",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第33卦「遯」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/33.gif"
+  },
+  {
+    "hexagramNumber": 33,
+    "hexagramName": "遯",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第33卦「遯」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/33.gif"
+  },
+  {
+    "hexagramNumber": 33,
+    "hexagramName": "遯",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第33卦「遯」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/33.gif"
+  },
+  {
+    "hexagramNumber": 33,
+    "hexagramName": "遯",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第33卦「遯」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/33.gif"
+  },
+  {
+    "hexagramNumber": 33,
+    "hexagramName": "遯",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第33卦「遯」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/33.gif"
+  },
+  {
+    "hexagramNumber": 34,
+    "hexagramName": "大壯",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第34卦「大壯」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/34.gif"
+  },
+  {
+    "hexagramNumber": 34,
+    "hexagramName": "大壯",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第34卦「大壯」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/34.gif"
+  },
+  {
+    "hexagramNumber": 34,
+    "hexagramName": "大壯",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第34卦「大壯」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/34.gif"
+  },
+  {
+    "hexagramNumber": 34,
+    "hexagramName": "大壯",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第34卦「大壯」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/34.gif"
+  },
+  {
+    "hexagramNumber": 34,
+    "hexagramName": "大壯",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第34卦「大壯」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/34.gif"
+  },
+  {
+    "hexagramNumber": 34,
+    "hexagramName": "大壯",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第34卦「大壯」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/34.gif"
+  },
+  {
+    "hexagramNumber": 35,
+    "hexagramName": "晉",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第35卦「晉」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/35.gif"
+  },
+  {
+    "hexagramNumber": 35,
+    "hexagramName": "晉",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第35卦「晉」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/35.gif"
+  },
+  {
+    "hexagramNumber": 35,
+    "hexagramName": "晉",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第35卦「晉」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/35.gif"
+  },
+  {
+    "hexagramNumber": 35,
+    "hexagramName": "晉",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第35卦「晉」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/35.gif"
+  },
+  {
+    "hexagramNumber": 35,
+    "hexagramName": "晉",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第35卦「晉」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/35.gif"
+  },
+  {
+    "hexagramNumber": 35,
+    "hexagramName": "晉",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第35卦「晉」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/35.gif"
+  },
+  {
+    "hexagramNumber": 36,
+    "hexagramName": "明夷",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第36卦「明夷」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/36.gif"
+  },
+  {
+    "hexagramNumber": 36,
+    "hexagramName": "明夷",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第36卦「明夷」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/36.gif"
+  },
+  {
+    "hexagramNumber": 36,
+    "hexagramName": "明夷",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第36卦「明夷」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/36.gif"
+  },
+  {
+    "hexagramNumber": 36,
+    "hexagramName": "明夷",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第36卦「明夷」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/36.gif"
+  },
+  {
+    "hexagramNumber": 36,
+    "hexagramName": "明夷",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第36卦「明夷」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/36.gif"
+  },
+  {
+    "hexagramNumber": 36,
+    "hexagramName": "明夷",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第36卦「明夷」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/36.gif"
+  },
+  {
+    "hexagramNumber": 37,
+    "hexagramName": "家人",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第37卦「家人」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/37.gif"
+  },
+  {
+    "hexagramNumber": 37,
+    "hexagramName": "家人",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第37卦「家人」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/37.gif"
+  },
+  {
+    "hexagramNumber": 37,
+    "hexagramName": "家人",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第37卦「家人」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/37.gif"
+  },
+  {
+    "hexagramNumber": 37,
+    "hexagramName": "家人",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第37卦「家人」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/37.gif"
+  },
+  {
+    "hexagramNumber": 37,
+    "hexagramName": "家人",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第37卦「家人」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/37.gif"
+  },
+  {
+    "hexagramNumber": 37,
+    "hexagramName": "家人",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第37卦「家人」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/37.gif"
+  },
+  {
+    "hexagramNumber": 38,
+    "hexagramName": "睽",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第38卦「睽」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/38.gif"
+  },
+  {
+    "hexagramNumber": 38,
+    "hexagramName": "睽",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第38卦「睽」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/38.gif"
+  },
+  {
+    "hexagramNumber": 38,
+    "hexagramName": "睽",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第38卦「睽」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/38.gif"
+  },
+  {
+    "hexagramNumber": 38,
+    "hexagramName": "睽",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第38卦「睽」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/38.gif"
+  },
+  {
+    "hexagramNumber": 38,
+    "hexagramName": "睽",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第38卦「睽」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/38.gif"
+  },
+  {
+    "hexagramNumber": 38,
+    "hexagramName": "睽",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第38卦「睽」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/38.gif"
+  },
+  {
+    "hexagramNumber": 39,
+    "hexagramName": "蹇",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第39卦「蹇」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/39.gif"
+  },
+  {
+    "hexagramNumber": 39,
+    "hexagramName": "蹇",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第39卦「蹇」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/39.gif"
+  },
+  {
+    "hexagramNumber": 39,
+    "hexagramName": "蹇",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第39卦「蹇」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/39.gif"
+  },
+  {
+    "hexagramNumber": 39,
+    "hexagramName": "蹇",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第39卦「蹇」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/39.gif"
+  },
+  {
+    "hexagramNumber": 39,
+    "hexagramName": "蹇",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第39卦「蹇」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/39.gif"
+  },
+  {
+    "hexagramNumber": 39,
+    "hexagramName": "蹇",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第39卦「蹇」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/39.gif"
+  },
+  {
+    "hexagramNumber": 40,
+    "hexagramName": "解",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第40卦「解」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/40.gif"
+  },
+  {
+    "hexagramNumber": 40,
+    "hexagramName": "解",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第40卦「解」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/40.gif"
+  },
+  {
+    "hexagramNumber": 40,
+    "hexagramName": "解",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第40卦「解」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/40.gif"
+  },
+  {
+    "hexagramNumber": 40,
+    "hexagramName": "解",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第40卦「解」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/40.gif"
+  },
+  {
+    "hexagramNumber": 40,
+    "hexagramName": "解",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第40卦「解」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/40.gif"
+  },
+  {
+    "hexagramNumber": 40,
+    "hexagramName": "解",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第40卦「解」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/40.gif"
+  },
+  {
+    "hexagramNumber": 41,
+    "hexagramName": "損",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第41卦「損」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/41.gif"
+  },
+  {
+    "hexagramNumber": 41,
+    "hexagramName": "損",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第41卦「損」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/41.gif"
+  },
+  {
+    "hexagramNumber": 41,
+    "hexagramName": "損",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第41卦「損」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/41.gif"
+  },
+  {
+    "hexagramNumber": 41,
+    "hexagramName": "損",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第41卦「損」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/41.gif"
+  },
+  {
+    "hexagramNumber": 41,
+    "hexagramName": "損",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第41卦「損」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/41.gif"
+  },
+  {
+    "hexagramNumber": 41,
+    "hexagramName": "損",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第41卦「損」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/41.gif"
+  },
+  {
+    "hexagramNumber": 42,
+    "hexagramName": "益",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第42卦「益」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/42.gif"
+  },
+  {
+    "hexagramNumber": 42,
+    "hexagramName": "益",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第42卦「益」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/42.gif"
+  },
+  {
+    "hexagramNumber": 42,
+    "hexagramName": "益",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第42卦「益」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/42.gif"
+  },
+  {
+    "hexagramNumber": 42,
+    "hexagramName": "益",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第42卦「益」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/42.gif"
+  },
+  {
+    "hexagramNumber": 42,
+    "hexagramName": "益",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第42卦「益」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/42.gif"
+  },
+  {
+    "hexagramNumber": 42,
+    "hexagramName": "益",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第42卦「益」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/42.gif"
+  },
+  {
+    "hexagramNumber": 43,
+    "hexagramName": "夬",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第43卦「夬」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/43.gif"
+  },
+  {
+    "hexagramNumber": 43,
+    "hexagramName": "夬",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第43卦「夬」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/43.gif"
+  },
+  {
+    "hexagramNumber": 43,
+    "hexagramName": "夬",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第43卦「夬」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/43.gif"
+  },
+  {
+    "hexagramNumber": 43,
+    "hexagramName": "夬",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第43卦「夬」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/43.gif"
+  },
+  {
+    "hexagramNumber": 43,
+    "hexagramName": "夬",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第43卦「夬」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/43.gif"
+  },
+  {
+    "hexagramNumber": 43,
+    "hexagramName": "夬",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第43卦「夬」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/43.gif"
+  },
+  {
+    "hexagramNumber": 44,
+    "hexagramName": "姤",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第44卦「姤」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/44.gif"
+  },
+  {
+    "hexagramNumber": 44,
+    "hexagramName": "姤",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第44卦「姤」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/44.gif"
+  },
+  {
+    "hexagramNumber": 44,
+    "hexagramName": "姤",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第44卦「姤」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/44.gif"
+  },
+  {
+    "hexagramNumber": 44,
+    "hexagramName": "姤",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第44卦「姤」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/44.gif"
+  },
+  {
+    "hexagramNumber": 44,
+    "hexagramName": "姤",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第44卦「姤」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/44.gif"
+  },
+  {
+    "hexagramNumber": 44,
+    "hexagramName": "姤",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第44卦「姤」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/44.gif"
+  },
+  {
+    "hexagramNumber": 45,
+    "hexagramName": "萃",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第45卦「萃」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/45.gif"
+  },
+  {
+    "hexagramNumber": 45,
+    "hexagramName": "萃",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第45卦「萃」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/45.gif"
+  },
+  {
+    "hexagramNumber": 45,
+    "hexagramName": "萃",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第45卦「萃」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/45.gif"
+  },
+  {
+    "hexagramNumber": 45,
+    "hexagramName": "萃",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第45卦「萃」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/45.gif"
+  },
+  {
+    "hexagramNumber": 45,
+    "hexagramName": "萃",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第45卦「萃」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/45.gif"
+  },
+  {
+    "hexagramNumber": 45,
+    "hexagramName": "萃",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第45卦「萃」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/45.gif"
+  },
+  {
+    "hexagramNumber": 46,
+    "hexagramName": "升",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第46卦「升」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/46.gif"
+  },
+  {
+    "hexagramNumber": 46,
+    "hexagramName": "升",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第46卦「升」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/46.gif"
+  },
+  {
+    "hexagramNumber": 46,
+    "hexagramName": "升",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第46卦「升」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/46.gif"
+  },
+  {
+    "hexagramNumber": 46,
+    "hexagramName": "升",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第46卦「升」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/46.gif"
+  },
+  {
+    "hexagramNumber": 46,
+    "hexagramName": "升",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第46卦「升」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/46.gif"
+  },
+  {
+    "hexagramNumber": 46,
+    "hexagramName": "升",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第46卦「升」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/46.gif"
+  },
+  {
+    "hexagramNumber": 47,
+    "hexagramName": "困",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第47卦「困」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/47.gif"
+  },
+  {
+    "hexagramNumber": 47,
+    "hexagramName": "困",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第47卦「困」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/47.gif"
+  },
+  {
+    "hexagramNumber": 47,
+    "hexagramName": "困",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第47卦「困」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/47.gif"
+  },
+  {
+    "hexagramNumber": 47,
+    "hexagramName": "困",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第47卦「困」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/47.gif"
+  },
+  {
+    "hexagramNumber": 47,
+    "hexagramName": "困",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第47卦「困」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/47.gif"
+  },
+  {
+    "hexagramNumber": 47,
+    "hexagramName": "困",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第47卦「困」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/47.gif"
+  },
+  {
+    "hexagramNumber": 48,
+    "hexagramName": "井",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第48卦「井」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/48.gif"
+  },
+  {
+    "hexagramNumber": 48,
+    "hexagramName": "井",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第48卦「井」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/48.gif"
+  },
+  {
+    "hexagramNumber": 48,
+    "hexagramName": "井",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第48卦「井」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/48.gif"
+  },
+  {
+    "hexagramNumber": 48,
+    "hexagramName": "井",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第48卦「井」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/48.gif"
+  },
+  {
+    "hexagramNumber": 48,
+    "hexagramName": "井",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第48卦「井」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/48.gif"
+  },
+  {
+    "hexagramNumber": 48,
+    "hexagramName": "井",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第48卦「井」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/48.gif"
+  },
+  {
+    "hexagramNumber": 49,
+    "hexagramName": "革",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第49卦「革」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/49.gif"
+  },
+  {
+    "hexagramNumber": 49,
+    "hexagramName": "革",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第49卦「革」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/49.gif"
+  },
+  {
+    "hexagramNumber": 49,
+    "hexagramName": "革",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第49卦「革」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/49.gif"
+  },
+  {
+    "hexagramNumber": 49,
+    "hexagramName": "革",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第49卦「革」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/49.gif"
+  },
+  {
+    "hexagramNumber": 49,
+    "hexagramName": "革",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第49卦「革」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/49.gif"
+  },
+  {
+    "hexagramNumber": 49,
+    "hexagramName": "革",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第49卦「革」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/49.gif"
+  },
+  {
+    "hexagramNumber": 50,
+    "hexagramName": "鼎",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第50卦「鼎」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/50.gif"
+  },
+  {
+    "hexagramNumber": 50,
+    "hexagramName": "鼎",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第50卦「鼎」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/50.gif"
+  },
+  {
+    "hexagramNumber": 50,
+    "hexagramName": "鼎",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第50卦「鼎」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/50.gif"
+  },
+  {
+    "hexagramNumber": 50,
+    "hexagramName": "鼎",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第50卦「鼎」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/50.gif"
+  },
+  {
+    "hexagramNumber": 50,
+    "hexagramName": "鼎",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第50卦「鼎」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/50.gif"
+  },
+  {
+    "hexagramNumber": 50,
+    "hexagramName": "鼎",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第50卦「鼎」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/50.gif"
+  },
+  {
+    "hexagramNumber": 51,
+    "hexagramName": "震",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第51卦「震」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/51.gif"
+  },
+  {
+    "hexagramNumber": 51,
+    "hexagramName": "震",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第51卦「震」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/51.gif"
+  },
+  {
+    "hexagramNumber": 51,
+    "hexagramName": "震",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第51卦「震」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/51.gif"
+  },
+  {
+    "hexagramNumber": 51,
+    "hexagramName": "震",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第51卦「震」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/51.gif"
+  },
+  {
+    "hexagramNumber": 51,
+    "hexagramName": "震",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第51卦「震」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/51.gif"
+  },
+  {
+    "hexagramNumber": 51,
+    "hexagramName": "震",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第51卦「震」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/51.gif"
+  },
+  {
+    "hexagramNumber": 52,
+    "hexagramName": "艮",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第52卦「艮」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/52.gif"
+  },
+  {
+    "hexagramNumber": 52,
+    "hexagramName": "艮",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第52卦「艮」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/52.gif"
+  },
+  {
+    "hexagramNumber": 52,
+    "hexagramName": "艮",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第52卦「艮」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/52.gif"
+  },
+  {
+    "hexagramNumber": 52,
+    "hexagramName": "艮",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第52卦「艮」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/52.gif"
+  },
+  {
+    "hexagramNumber": 52,
+    "hexagramName": "艮",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第52卦「艮」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/52.gif"
+  },
+  {
+    "hexagramNumber": 52,
+    "hexagramName": "艮",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第52卦「艮」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/52.gif"
+  },
+  {
+    "hexagramNumber": 53,
+    "hexagramName": "漸",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第53卦「漸」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/53.gif"
+  },
+  {
+    "hexagramNumber": 53,
+    "hexagramName": "漸",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第53卦「漸」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/53.gif"
+  },
+  {
+    "hexagramNumber": 53,
+    "hexagramName": "漸",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第53卦「漸」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/53.gif"
+  },
+  {
+    "hexagramNumber": 53,
+    "hexagramName": "漸",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第53卦「漸」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/53.gif"
+  },
+  {
+    "hexagramNumber": 53,
+    "hexagramName": "漸",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第53卦「漸」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/53.gif"
+  },
+  {
+    "hexagramNumber": 53,
+    "hexagramName": "漸",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第53卦「漸」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/53.gif"
+  },
+  {
+    "hexagramNumber": 54,
+    "hexagramName": "歸妹",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第54卦「歸妹」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/54.gif"
+  },
+  {
+    "hexagramNumber": 54,
+    "hexagramName": "歸妹",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第54卦「歸妹」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/54.gif"
+  },
+  {
+    "hexagramNumber": 54,
+    "hexagramName": "歸妹",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第54卦「歸妹」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/54.gif"
+  },
+  {
+    "hexagramNumber": 54,
+    "hexagramName": "歸妹",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第54卦「歸妹」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/54.gif"
+  },
+  {
+    "hexagramNumber": 54,
+    "hexagramName": "歸妹",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第54卦「歸妹」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/54.gif"
+  },
+  {
+    "hexagramNumber": 54,
+    "hexagramName": "歸妹",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第54卦「歸妹」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/54.gif"
+  },
+  {
+    "hexagramNumber": 55,
+    "hexagramName": "豐",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第55卦「豐」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/55.gif"
+  },
+  {
+    "hexagramNumber": 55,
+    "hexagramName": "豐",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第55卦「豐」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/55.gif"
+  },
+  {
+    "hexagramNumber": 55,
+    "hexagramName": "豐",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第55卦「豐」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/55.gif"
+  },
+  {
+    "hexagramNumber": 55,
+    "hexagramName": "豐",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第55卦「豐」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/55.gif"
+  },
+  {
+    "hexagramNumber": 55,
+    "hexagramName": "豐",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第55卦「豐」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/55.gif"
+  },
+  {
+    "hexagramNumber": 55,
+    "hexagramName": "豐",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第55卦「豐」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/55.gif"
+  },
+  {
+    "hexagramNumber": 56,
+    "hexagramName": "旅",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第56卦「旅」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/56.gif"
+  },
+  {
+    "hexagramNumber": 56,
+    "hexagramName": "旅",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第56卦「旅」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/56.gif"
+  },
+  {
+    "hexagramNumber": 56,
+    "hexagramName": "旅",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第56卦「旅」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/56.gif"
+  },
+  {
+    "hexagramNumber": 56,
+    "hexagramName": "旅",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第56卦「旅」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/56.gif"
+  },
+  {
+    "hexagramNumber": 56,
+    "hexagramName": "旅",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第56卦「旅」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/56.gif"
+  },
+  {
+    "hexagramNumber": 56,
+    "hexagramName": "旅",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第56卦「旅」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/56.gif"
+  },
+  {
+    "hexagramNumber": 57,
+    "hexagramName": "巽",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第57卦「巽」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/57.gif"
+  },
+  {
+    "hexagramNumber": 57,
+    "hexagramName": "巽",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第57卦「巽」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/57.gif"
+  },
+  {
+    "hexagramNumber": 57,
+    "hexagramName": "巽",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第57卦「巽」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/57.gif"
+  },
+  {
+    "hexagramNumber": 57,
+    "hexagramName": "巽",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第57卦「巽」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/57.gif"
+  },
+  {
+    "hexagramNumber": 57,
+    "hexagramName": "巽",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第57卦「巽」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/57.gif"
+  },
+  {
+    "hexagramNumber": 57,
+    "hexagramName": "巽",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第57卦「巽」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/57.gif"
+  },
+  {
+    "hexagramNumber": 58,
+    "hexagramName": "兌",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第58卦「兌」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/58.gif"
+  },
+  {
+    "hexagramNumber": 58,
+    "hexagramName": "兌",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第58卦「兌」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/58.gif"
+  },
+  {
+    "hexagramNumber": 58,
+    "hexagramName": "兌",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第58卦「兌」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/58.gif"
+  },
+  {
+    "hexagramNumber": 58,
+    "hexagramName": "兌",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第58卦「兌」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/58.gif"
+  },
+  {
+    "hexagramNumber": 58,
+    "hexagramName": "兌",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第58卦「兌」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/58.gif"
+  },
+  {
+    "hexagramNumber": 58,
+    "hexagramName": "兌",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第58卦「兌」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/58.gif"
+  },
+  {
+    "hexagramNumber": 59,
+    "hexagramName": "渙",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第59卦「渙」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/59.gif"
+  },
+  {
+    "hexagramNumber": 59,
+    "hexagramName": "渙",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第59卦「渙」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/59.gif"
+  },
+  {
+    "hexagramNumber": 59,
+    "hexagramName": "渙",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第59卦「渙」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/59.gif"
+  },
+  {
+    "hexagramNumber": 59,
+    "hexagramName": "渙",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第59卦「渙」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/59.gif"
+  },
+  {
+    "hexagramNumber": 59,
+    "hexagramName": "渙",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第59卦「渙」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/59.gif"
+  },
+  {
+    "hexagramNumber": 59,
+    "hexagramName": "渙",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第59卦「渙」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/59.gif"
+  },
+  {
+    "hexagramNumber": 60,
+    "hexagramName": "節",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第60卦「節」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/60.gif"
+  },
+  {
+    "hexagramNumber": 60,
+    "hexagramName": "節",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第60卦「節」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/60.gif"
+  },
+  {
+    "hexagramNumber": 60,
+    "hexagramName": "節",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第60卦「節」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/60.gif"
+  },
+  {
+    "hexagramNumber": 60,
+    "hexagramName": "節",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第60卦「節」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/60.gif"
+  },
+  {
+    "hexagramNumber": 60,
+    "hexagramName": "節",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第60卦「節」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/60.gif"
+  },
+  {
+    "hexagramNumber": 60,
+    "hexagramName": "節",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第60卦「節」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/60.gif"
+  },
+  {
+    "hexagramNumber": 61,
+    "hexagramName": "中孚",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第61卦「中孚」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/61.gif"
+  },
+  {
+    "hexagramNumber": 61,
+    "hexagramName": "中孚",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第61卦「中孚」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/61.gif"
+  },
+  {
+    "hexagramNumber": 61,
+    "hexagramName": "中孚",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第61卦「中孚」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/61.gif"
+  },
+  {
+    "hexagramNumber": 61,
+    "hexagramName": "中孚",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第61卦「中孚」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/61.gif"
+  },
+  {
+    "hexagramNumber": 61,
+    "hexagramName": "中孚",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第61卦「中孚」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/61.gif"
+  },
+  {
+    "hexagramNumber": 61,
+    "hexagramName": "中孚",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第61卦「中孚」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/61.gif"
+  },
+  {
+    "hexagramNumber": 62,
+    "hexagramName": "小過",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第62卦「小過」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/62.gif"
+  },
+  {
+    "hexagramNumber": 62,
+    "hexagramName": "小過",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第62卦「小過」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/62.gif"
+  },
+  {
+    "hexagramNumber": 62,
+    "hexagramName": "小過",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第62卦「小過」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/62.gif"
+  },
+  {
+    "hexagramNumber": 62,
+    "hexagramName": "小過",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第62卦「小過」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/62.gif"
+  },
+  {
+    "hexagramNumber": 62,
+    "hexagramName": "小過",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第62卦「小過」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/62.gif"
+  },
+  {
+    "hexagramNumber": 62,
+    "hexagramName": "小過",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第62卦「小過」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/62.gif"
+  },
+  {
+    "hexagramNumber": 63,
+    "hexagramName": "既濟",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第63卦「既濟」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/63.gif"
+  },
+  {
+    "hexagramNumber": 63,
+    "hexagramName": "既濟",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第63卦「既濟」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/63.gif"
+  },
+  {
+    "hexagramNumber": 63,
+    "hexagramName": "既濟",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第63卦「既濟」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/63.gif"
+  },
+  {
+    "hexagramNumber": 63,
+    "hexagramName": "既濟",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第63卦「既濟」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/63.gif"
+  },
+  {
+    "hexagramNumber": 63,
+    "hexagramName": "既濟",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第63卦「既濟」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/63.gif"
+  },
+  {
+    "hexagramNumber": 63,
+    "hexagramName": "既濟",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第63卦「既濟」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/63.gif"
+  },
+  {
+    "hexagramNumber": 64,
+    "hexagramName": "未濟",
+    "yaoPosition": 1,
+    "yaoName": "初爻",
+    "yaoText": "第64卦「未濟」第1爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/64.gif"
+  },
+  {
+    "hexagramNumber": 64,
+    "hexagramName": "未濟",
+    "yaoPosition": 2,
+    "yaoName": "二爻",
+    "yaoText": "第64卦「未濟」第2爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/64.gif"
+  },
+  {
+    "hexagramNumber": 64,
+    "hexagramName": "未濟",
+    "yaoPosition": 3,
+    "yaoName": "三爻",
+    "yaoText": "第64卦「未濟」第3爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/64.gif"
+  },
+  {
+    "hexagramNumber": 64,
+    "hexagramName": "未濟",
+    "yaoPosition": 4,
+    "yaoName": "四爻",
+    "yaoText": "第64卦「未濟」第4爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/64.gif"
+  },
+  {
+    "hexagramNumber": 64,
+    "hexagramName": "未濟",
+    "yaoPosition": 5,
+    "yaoName": "五爻",
+    "yaoText": "第64卦「未濟」第5爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/64.gif"
+  },
+  {
+    "hexagramNumber": 64,
+    "hexagramName": "未濟",
+    "yaoPosition": 6,
+    "yaoName": "上爻",
+    "yaoText": "第64卦「未濟」第6爻爻辭（請以您的完整易經原文文件替換此欄位內容）。",
+    "imageUrl": "https://g.intellicon.tw/data/iching/64.gif"
+  }
+]
