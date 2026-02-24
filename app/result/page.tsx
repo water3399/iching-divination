@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useMemo, useState } from 'react';
+import { Suspense, useEffect, useMemo, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
@@ -72,7 +72,7 @@ function renderMarkdown(md: string) {
   return nodes;
 }
 
-export default function ResultPage() {
+function ResultContent() {
   const searchParams = useSearchParams();
   const number = parseNumber(searchParams.get('number'));
   const question = searchParams.get('question') ?? '';
@@ -186,5 +186,13 @@ export default function ResultPage() {
         </Link>
       </div>
     </main>
+  );
+}
+
+export default function ResultPage() {
+  return (
+    <Suspense fallback={<div className="max-w-3xl mx-auto p-6 text-center text-amber-200">載入中...</div>}>
+      <ResultContent />
+    </Suspense>
   );
 }
