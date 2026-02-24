@@ -155,7 +155,7 @@ export default function ResultPage() {
         </h1>
         <p className="text-amber-200">{result.yaoName}</p>
 
-        <div className="relative h-40 w-40 mx-auto">
+        <div className="relative h-64 w-64 mx-auto">
           <Image src={result.imageUrl} alt={`${result.hexagramName}卦象`} fill className="object-contain" />
         </div>
 
