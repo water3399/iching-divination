@@ -49,10 +49,16 @@ type OpenRouterResponse = {
 };
 
 const openRouterBaseUrl = 'https://openrouter.ai/api/v1';
+const defaultModel = 'anthropic/claude-opus-4.6';
+
+function normalizeModel(model: string) {
+  return model.trim().replace(/\s+/g, '').toLowerCase();
+}
 
 export async function POST(req: Request) {
   try {
     const apiKey = process.env.OPENROUTER_API_KEY;
+    const model = normalizeModel(process.env.OPENROUTER_MODEL ?? defaultModel);
 
     if (!apiKey) {
       return NextResponse.json({ error: 'Missing OPENROUTER_API_KEY' }, { status: 500 });
@@ -69,7 +75,7 @@ export async function POST(req: Request) {
         'X-Title': process.env.OPENROUTER_SITE_NAME ?? 'I Ching Divination'
       },
       body: JSON.stringify({
-        model: 'anthropic/claude-sonnet-4',
+        model,
         max_tokens: 1200,
         messages: [
           {
