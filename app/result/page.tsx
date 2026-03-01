@@ -9,6 +9,8 @@ import ichingData from '@/data/iching.json';
 type InterpretPayload = {
   question: string;
   category: string;
+  model?: string;
+  apiKey?: string;
   hexagramName: string;
   hexagramNumber: number;
   yaoName: string;
@@ -77,6 +79,8 @@ function ResultContent() {
   const number = parseNumber(searchParams.get('number'));
   const question = searchParams.get('question') ?? '';
   const category = searchParams.get('category') ?? '未分類';
+  const model = searchParams.get('model') ?? '';
+  const apiKey = searchParams.get('apiKey') ?? '';
 
   const remainder = number % 6;
   const yaoPosition = remainder === 0 ? 6 : remainder;
@@ -99,6 +103,8 @@ function ResultContent() {
     const payload: InterpretPayload = {
       question,
       category,
+      model: model.trim() || undefined,
+      apiKey: apiKey.trim() || undefined,
       hexagramName: result.hexagramName,
       hexagramNumber: result.hexagramNumber,
       yaoName: result.yaoName,
@@ -150,7 +156,7 @@ function ResultContent() {
     return () => {
       cancelled = true;
     };
-  }, [category, question, result]);
+  }, [apiKey, category, model, question, result]);
 
   if (!result) {
     return (
@@ -180,6 +186,7 @@ function ResultContent() {
 
       <section className="panel p-6 space-y-3">
         <h2 className="text-xl text-gold">AI 解讀</h2>
+        <p className="text-xs text-amber-100/70">目前模型：{model.trim() || '伺服器預設模型'}</p>
         {loading ? (
           <div className="flex items-center gap-3 text-amber-100/80">
             <span className="h-3 w-3 rounded-full bg-gold animate-ping" />
