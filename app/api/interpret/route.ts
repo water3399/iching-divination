@@ -30,6 +30,8 @@ const systemPrompt = `你是一位精通易經的占卜專家，具備深厚的�
 type InterpretRequest = {
   question: string;
   category: string;
+  model?: string;
+  apiKey?: string;
   hexagramName: string;
   hexagramNumber: number;
   yaoName: string;
@@ -53,14 +55,13 @@ const defaultModel = 'openai/gpt-4o-mini';
 
 export async function POST(req: Request) {
   try {
-    const apiKey = process.env.OPENROUTER_API_KEY;
-    const model = process.env.OPENROUTER_MODEL ?? defaultModel;
+    const body = (await req.json()) as InterpretRequest;
+    const apiKey = body.apiKey?.trim() || process.env.OPENROUTER_API_KEY;
+    const model = body.model?.trim() || process.env.OPENROUTER_MODEL || defaultModel;
 
     if (!apiKey) {
-      return NextResponse.json({ error: 'Missing OPENROUTER_API_KEY' }, { status: 500 });
+      return NextResponse.json({ error: 'Missing API key. Please provide one or set OPENROUTER_API_KEY.' }, { status: 500 });
     }
-
-    const body = (await req.json()) as InterpretRequest;
 
     const response = await fetch(`${openRouterBaseUrl}/chat/completions`, {
       method: 'POST',

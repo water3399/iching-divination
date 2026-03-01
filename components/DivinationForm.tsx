@@ -10,6 +10,8 @@ export function DivinationForm() {
   const [category, setCategory] = useState(categories[0]);
   const [customCategory, setCustomCategory] = useState('');
   const [question, setQuestion] = useState('');
+  const [model, setModel] = useState('');
+  const [apiKey, setApiKey] = useState('');
   const [isCasting, setIsCasting] = useState(false);
 
   const effectiveCategory = category === '其他' ? customCategory.trim() : category;
@@ -25,7 +27,9 @@ export function DivinationForm() {
     const params = new URLSearchParams({
       number: String(randomNumber),
       category: effectiveCategory,
-      question: question.trim()
+      question: question.trim(),
+      model: model.trim(),
+      apiKey: apiKey.trim()
     });
     router.push(`/result?${params.toString()}`);
   };
@@ -74,6 +78,28 @@ export function DivinationForm() {
           onChange={(e) => setQuestion(e.target.value)}
           placeholder="例如：我該不該在今年換工作？"
         />
+      </div>
+
+      <div className="space-y-2">
+        <label className="text-sm text-amber-200">自訂模型（選填）</label>
+        <input
+          className="w-full rounded-lg bg-black/30 border border-amber-200/30 px-3 py-2"
+          value={model}
+          onChange={(e) => setModel(e.target.value)}
+          placeholder="例如：openai/gpt-4o-mini"
+        />
+      </div>
+
+      <div className="space-y-2">
+        <label className="text-sm text-amber-200">API Key（選填）</label>
+        <input
+          type="password"
+          className="w-full rounded-lg bg-black/30 border border-amber-200/30 px-3 py-2"
+          value={apiKey}
+          onChange={(e) => setApiKey(e.target.value)}
+          placeholder="若留空則使用伺服器預設金鑰"
+        />
+        <p className="text-xs text-amber-100/70">輸入後可用於本次占卜連線，離開頁面後不會保存。</p>
       </div>
 
       <button
