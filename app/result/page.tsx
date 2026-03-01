@@ -88,6 +88,7 @@ function ResultContent() {
   );
 
   const [aiInterpretation, setAiInterpretation] = useState<string | null>(null);
+  const [aiError, setAiError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
@@ -107,6 +108,7 @@ function ResultContent() {
 
     let cancelled = false;
     setLoading(true);
+    setAiError(null);
 
     fetch('/api/interpret', {
       method: 'POST',
@@ -114,21 +116,33 @@ function ResultContent() {
       body: JSON.stringify(payload)
     })
       .then(async (response) => {
+        const data = (await response.json()) as { text?: string; error?: string; detail?: string };
+
         if (!response.ok) {
-          return null;
+          const detail = data.detail?.trim();
+          const fallback = data.error?.trim();
+          throw new Error(detail || fallback || '目前無法取得 AI 解讀，請稍後再試。');
         }
-        const data = (await response.json()) as { text?: string };
-        return data.text ?? null;
+
+        const text = data.text?.trim();
+        if (!text) {
+          throw new Error('AI 沒有回傳解讀內容，請稍後再試。');
+        }
+
+        return text;
       })
       .then((text) => {
         if (!cancelled) {
           setAiInterpretation(text);
+          setAiError(null);
           setLoading(false);
         }
       })
-      .catch(() => {
+      .catch((error: unknown) => {
         if (!cancelled) {
+          const message = error instanceof Error ? error.message : '目前無法取得 AI 解讀，請稍後再試。';
           setAiInterpretation(null);
+          setAiError(message);
           setLoading(false);
         }
       });
@@ -175,7 +189,7 @@ function ResultContent() {
           <div className="space-y-2">{renderMarkdown(aiInterpretation)}</div>
         ) : (
           <p className="text-amber-100/70 leading-relaxed">
-            {question ? '目前無法取得 AI 解讀（請確認已設定 OPENROUTER_API_KEY）。' : '你尚未輸入問題，本次僅顯示卦象與爻辭。'}
+            {question ? aiError ?? '目前無法取得 AI 解讀，請確認 API 設定或稍後再試。' : '你尚未輸入問題，本次僅顯示卦象與爻辭。'}
           </p>
         )}
       </section>
