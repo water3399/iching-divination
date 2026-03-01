@@ -175,7 +175,7 @@ function ResultContent() {
           <div className="space-y-2">{renderMarkdown(aiInterpretation)}</div>
         ) : (
           <p className="text-amber-100/70 leading-relaxed">
-            {question ? '目前無法取得 AI 解讀（請確認已設定 OPENROUTER_API_KEY 或 ANTHROPIC_API_KEY）。' : '你尚未輸入問題，本次僅顯示卦象與爻辭。'}
+            {question ? '目前無法取得 AI 解讀（請確認已設定 OPENROUTER_API_KEY）。' : '你尚未輸入問題，本次僅顯示卦象與爻辭。'}
           </p>
         )}
       </section>

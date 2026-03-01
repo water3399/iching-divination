@@ -37,53 +37,45 @@ type InterpretRequest = {
   yaoText: string;
 };
 
-type AnthropicTextBlock = {
-  type: 'text';
-  text: string;
-};
-
-type AnthropicResponse = {
-  content?: AnthropicTextBlock[];
+type OpenRouterResponse = {
+  choices?: {
+    message?: {
+      content?: string;
+    };
+  }[];
   error?: {
     message?: string;
   };
 };
 
 const openRouterBaseUrl = 'https://openrouter.ai/api/v1';
-const anthropicBaseUrl = 'https://api.anthropic.com/v1';
 
 export async function POST(req: Request) {
   try {
-    const openRouterApiKey = process.env.OPENROUTER_API_KEY;
-    const anthropicApiKey = process.env.ANTHROPIC_API_KEY;
-    const apiKey = openRouterApiKey ?? anthropicApiKey;
+    const apiKey = process.env.OPENROUTER_API_KEY;
 
     if (!apiKey) {
-      return NextResponse.json({ error: 'Missing OPENROUTER_API_KEY or ANTHROPIC_API_KEY' }, { status: 500 });
+      return NextResponse.json({ error: 'Missing OPENROUTER_API_KEY' }, { status: 500 });
     }
 
     const body = (await req.json()) as InterpretRequest;
-    const usingOpenRouter = Boolean(openRouterApiKey);
 
-    const response = await fetch(`${usingOpenRouter ? openRouterBaseUrl : anthropicBaseUrl}/messages`, {
+    const response = await fetch(`${openRouterBaseUrl}/chat/completions`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'x-api-key': apiKey,
-        'anthropic-version': '2023-06-01',
-        ...(usingOpenRouter
-          ? {
-              Authorization: `Bearer ${apiKey}`,
-              'HTTP-Referer': process.env.OPENROUTER_SITE_URL ?? 'http://localhost:3000',
-              'X-Title': process.env.OPENROUTER_SITE_NAME ?? 'I Ching Divination'
-            }
-          : {})
+        Authorization: `Bearer ${apiKey}`,
+        'HTTP-Referer': process.env.OPENROUTER_SITE_URL ?? 'http://localhost:3000',
+        'X-Title': process.env.OPENROUTER_SITE_NAME ?? 'I Ching Divination'
       },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
+        model: 'anthropic/claude-sonnet-4',
         max_tokens: 1200,
-        system: systemPrompt,
         messages: [
+          {
+            role: 'system',
+            content: systemPrompt
+          },
           {
             role: 'user',
             content:
@@ -98,18 +90,14 @@ export async function POST(req: Request) {
       })
     });
 
-    const data = (await response.json()) as AnthropicResponse;
+    const data = (await response.json()) as OpenRouterResponse;
 
     if (!response.ok) {
       const detail = data.error?.message ?? 'Unknown error';
       return NextResponse.json({ error: 'Interpretation failed', detail }, { status: response.status });
     }
 
-    const text =
-      data.content
-        ?.filter((part) => part.type === 'text')
-        .map((part) => part.text)
-        .join('\n') ?? '';
+    const text = data.choices?.[0]?.message?.content ?? '';
 
     return NextResponse.json({ text });
   } catch (error) {
