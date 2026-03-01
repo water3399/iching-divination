@@ -49,21 +49,35 @@ type AnthropicResponse = {
   };
 };
 
+const openRouterBaseUrl = 'https://openrouter.ai/api/v1';
+const anthropicBaseUrl = 'https://api.anthropic.com/v1';
+
 export async function POST(req: Request) {
   try {
-    const apiKey = process.env.ANTHROPIC_API_KEY;
+    const openRouterApiKey = process.env.OPENROUTER_API_KEY;
+    const anthropicApiKey = process.env.ANTHROPIC_API_KEY;
+    const apiKey = openRouterApiKey ?? anthropicApiKey;
+
     if (!apiKey) {
-      return NextResponse.json({ error: 'Missing ANTHROPIC_API_KEY' }, { status: 500 });
+      return NextResponse.json({ error: 'Missing OPENROUTER_API_KEY or ANTHROPIC_API_KEY' }, { status: 500 });
     }
 
     const body = (await req.json()) as InterpretRequest;
+    const usingOpenRouter = Boolean(openRouterApiKey);
 
-    const response = await fetch('https://api.anthropic.com/v1/messages', {
+    const response = await fetch(`${usingOpenRouter ? openRouterBaseUrl : anthropicBaseUrl}/messages`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
         'x-api-key': apiKey,
-        'anthropic-version': '2023-06-01'
+        'anthropic-version': '2023-06-01',
+        ...(usingOpenRouter
+          ? {
+              Authorization: `Bearer ${apiKey}`,
+              'HTTP-Referer': process.env.OPENROUTER_SITE_URL ?? 'http://localhost:3000',
+              'X-Title': process.env.OPENROUTER_SITE_NAME ?? 'I Ching Divination'
+            }
+          : {})
       },
       body: JSON.stringify({
         model: 'claude-sonnet-4-20250514',
